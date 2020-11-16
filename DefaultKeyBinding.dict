@@ -1,6 +1,7 @@
 /* ~/Library/KeyBindings/DefaultKeyBinding.Dict
 Origin: http://benogle.com/2010/01/18/windowslinux-developers-remap-your-mac.html
 Helpful link: http://heisencoder.net/2008/04/fixing-up-mac-key-bindings-for-windows.html
+Helpful link: http://xahlee.info/kbd/osx_keybinding_action_code.html
 
 This file remaps the key bindings of a single user on Mac OS X 10.5 to more closely
 match default behavior on Windows systems.  This particular mapping assumes
