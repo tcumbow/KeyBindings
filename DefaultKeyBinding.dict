@@ -59,6 +59,7 @@ which is completely different.
 "^x"  = "cut:";                                         /* Shift + Del  */
 "^v"  = "paste:";                                       /* Shift + Help */
 "^c"  = "copy:";                                        /* Cmd  + Help (Ins) */
+"^a"  = "selectAll:";
 "^\UF702"  = "moveWordBackward:";                            /* Cmd  + LeftArrow */
 "^\UF703"  = "moveWordForward:";                             /* Cmd  + RightArrow */
 "$^\UF702" = "moveWordBackwardAndModifySelection:";   /* Shift + Cmd  + Leftarrow */
