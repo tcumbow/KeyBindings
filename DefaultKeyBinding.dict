@@ -61,6 +61,9 @@ which is completely different.
 "^v"  = "paste:";
 "^c"  = "copy:";
 "^a"  = "selectAll:";
+"^z"  = "undo:";
+"^y"  = "redo:";
+"@y"  = "redo:";
 "^\UF702"  = "moveWordBackward:";                            /* Cmd  + LeftArrow */
 "^\UF703"  = "moveWordForward:";                             /* Cmd  + RightArrow */
 "$^\UF702" = "moveWordBackwardAndModifySelection:";   /* Shift + Cmd  + Leftarrow */
